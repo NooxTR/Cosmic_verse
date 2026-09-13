@@ -1,4 +1,5 @@
 A huge update is coming soon. ⚡ ⚡ ⚡ ⚡ ⚡✨✨✨✨
+Update date = between September 18-20
 
 Almost everything will be redesigned, and there will be a significant increase in the number of effects.✨✨✨ 🦸🔥💥
 
@@ -53,9 +54,16 @@ Before installing the Heropack, make sure you have:
 | Character | Status |
 |-----------|--------|
 | Character 1 | ✅ Released |
-| Character 2 | ✅ Released |
-| Character 3 | ✅ Released |
-| Character 4 | 🚧 Planned  |        
+| Character 2 | ✅ Released = Cosmic_punch|
+| Character 3 | ✅ Released = old_guard |
+| Character 4 | 🚧 Planned = dr.doom |
+| Character 4 | 🚧 Planned = reality_stone|
+| Character 4 | 🚧 Planned = space_stone |
+| Character 4 | 🚧 Planned = mind_stone |
+| Character 4 | 🚧 Planned = time_stone |
+| Character 4 | 🚧 Planned = power_stone |
+| Character 4 | 🚧 Planned = soul_stone |
+| Character 4 | 🚧 Planned = ultimate ultron |
 
 More characters will be added in future updates.
 
