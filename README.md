@@ -53,7 +53,7 @@ Before installing the Heropack, make sure you have:
 
 | Character | Status |
 |-----------|--------|
-| Character 1 | ✅ Released |
+| Character 1 | ✅ Released = cosmic_spiderman |
 | Character 2 | ✅ Released = Cosmic_punch|
 | Character 3 | ✅ Released = old_guard |
 | Character 4 | 🚧 Planned = dr.doom |
