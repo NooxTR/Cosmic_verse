@@ -57,13 +57,13 @@ Before installing the Heropack, make sure you have:
 | Character 2 | ✅ Released = Cosmic_punch|
 | Character 3 | ✅ Released = old_guard |
 | Character 4 | 🚧 Planned = dr.doom |
-| Character 4 | 🚧 Planned = reality_stone|
-| Character 4 | 🚧 Planned = space_stone |
-| Character 4 | 🚧 Planned = mind_stone |
-| Character 4 | 🚧 Planned = time_stone |
-| Character 4 | 🚧 Planned = power_stone |
-| Character 4 | 🚧 Planned = soul_stone |
-| Character 4 | 🚧 Planned = ultimate ultron |
+| Character 5 | 🚧 Planned = reality_stone|
+| Character 6 | 🚧 Planned = space_stone |
+| Character 7 | 🚧 Planned = mind_stone |
+| Character 8 | 🚧 Planned = time_stone |
+| Character 9 | 🚧 Planned = power_stone |
+| Character 10 | 🚧 Planned = soul_stone |
+| Character 11 | 🚧 Planned = ultimate ultron |
 
 More characters will be added in future updates.
 
