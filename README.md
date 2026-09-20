@@ -1,5 +1,5 @@
 A huge update is coming soon. ⚡ ⚡ ⚡ ⚡ ⚡✨✨✨✨
-Update date = between September 18-20
+Update date = between September 24-30
 
 Almost everything will be redesigned, and there will be a significant increase in the number of effects.✨✨✨ 🦸🔥💥
 
