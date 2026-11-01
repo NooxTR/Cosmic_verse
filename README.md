@@ -7,7 +7,9 @@
 </p><p align="center">
   <b>A universe beyond imagination.</b><br>
   Explore cosmic powers, legendary heroes and powerful enemies!
-</p>---
+</p>
+
+---
 
 🌠 About the Project
 
@@ -41,13 +43,14 @@ The release date may change depending on development progress.
 
 🦸 Characters & Content
 
-Character / Content| Status
-🌌 Cosmic Spider-Man| ✅ Released
-👊 Cosmic Punch| ✅ Released
-🛡️ Old Guard| ✅ Released
-🦹 Doctor Doom| 🚧 In Development
-💎 Infinity Stones| 📋 Planned
-🤖 Ultimate Ultron| 🚧 In Development
+| Character / Content     | Status              |
+|-------------------------|---------------------|
+| 🌌 Cosmic Spider-Man    | ✅ Released         |
+| 👊 Cosmic Punch         | ✅ Released         |
+| 🛡️ Old Guard            | ✅ Released         |
+| 🦹 Doctor Doom          | 🚧 In Development   |
+| 💎 Infinity Stones      | 📋 Planned          |
+| 🤖 Ultimate Ultron      | 🚧 In Development   |
 
 Note: More characters and abilities may be added during development.
 
