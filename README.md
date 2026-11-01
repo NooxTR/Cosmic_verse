@@ -1,11 +1,10 @@
 🌌 Cosmic Verse | FiskHeroes Heropack
 
-«A custom cosmic-themed Heropack for FiskHeroes, created by NooxTR.»
-
-""Minecraft" (https://img.shields.io/badge/Minecraft-1.7.10-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)" (https://minecraft.net/)
-""FiskHeroes" (https://img.shields.io/badge/FiskHeroes-2.4.0-6E44FF?style=for-the-badge)" (https://github.com/)
-""Status" (https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)" (#-development)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.7.10-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/FiskHeroes-2.4.0-6E44FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" />
+</p>
 ---
 
 🚀 Release Window
