@@ -4,45 +4,38 @@
   <img src="https://img.shields.io/badge/Minecraft-1.7.10-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/FiskHeroes-2.4.0-6E44FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge" />
-</p>
----
+</p><p align="center">
+  <b>A universe beyond imagination.</b><br>
+  Explore cosmic powers, legendary heroes and powerful enemies!
+</p>---
 
-🚀 Release Window
+🌠 About the Project
 
-📅 November 11–16, 2026
+Cosmic Verse is a custom FiskHeroes Heropack created for Minecraft 1.7.10.
 
-The next major Cosmic Verse update is planned to release between November 11 and November 16, 2026.
+The project brings cosmic-themed characters, abilities and legendary content into the Minecraft universe.
 
-This update will bring a major visual and gameplay refresh, including redesigned content, improved effects, new abilities and more cosmic additions. ✨⚡🌌
+Our goal is to create a unique experience inspired by powerful cosmic beings, alternate universes and superhero stories.
 
-«Release date: The exact day will be announced during the release window.»
+📅 Release Information
 
----
+- Planned Release Window: November 11–16, 2026
+- Minecraft Version: 1.7.10
+- Required FiskHeroes Version: 2.4.0
+- Project Status: In Development
 
-🌠 About Cosmic Verse
-
-Cosmic Verse is a custom FiskHeroes Heropack created by NooxTR.
-
-The project brings a cosmic-themed universe to Minecraft 1.7.10 with custom characters, abilities, attacks, textures, effects and animations.
-
-The goal is simple:
-
-«Make every character feel unique, powerful and fun to play. 🦸‍♂️💥»
+The release date may change depending on development progress.
 
 ---
 
 ✨ Features
 
-- 🦸 Custom characters
-- ⚡ Custom abilities and powers
-- 👊 Unique attacks
-- 🎨 Custom textures
-- 🚀 Flying abilities
-- 🔥 Custom effects
-- 🎬 Custom animations
-- 💎 Cosmic-themed content
-- 🛠️ Continuous improvements
-- 🌌 New characters planned
+- 🌌 Cosmic-themed superhero content
+- 👊 Unique abilities and attacks
+- 💎 Powerful Infinity Stones
+- 🤖 Legendary cosmic enemies
+- 🎨 Custom character designs
+- ⚡ More content planned for future updates
 
 ---
 
@@ -53,168 +46,108 @@ Character / Content| Status
 👊 Cosmic Punch| ✅ Released
 🛡️ Old Guard| ✅ Released
 🦹 Doctor Doom| 🚧 In Development
-💎 Reality Stone| 🚧 Planned
-🌌 Space Stone| 🚧 Planned
-🧠 Mind Stone| 🚧 Planned
-⏳ Time Stone| 🚧 Planned
-⚡ Power Stone| 🚧 Planned
-👻 Soul Stone| 🚧 Planned
-🤖 Infinity Ultron| 🚧 Planned
+💎 Infinity Stones| 📋 Planned
+🤖 Infinity Ultron| 🚧 In Development
 
-«More heroes, villains, abilities and cosmic content will be added in future updates.»
+Note: More characters and abilities may be added during development.
 
 ---
 
-🎮 Gameplay
+🌌 Cosmic Spider-Man
 
-Cosmic Verse is designed to expand FiskHeroes while keeping the gameplay exciting.
+A special Spider-Man design featuring a blue cosmic and galaxy-inspired appearance.
 
-Each character is designed to have:
+- White eyes
+- Cosmic blue design
+- Galaxy-inspired details
+- No additional spider arms
 
-- A unique playstyle
-- Custom abilities
-- Different attacks
-- Special effects
-- Character-specific strengths
-- Unique gameplay mechanics
+🤖 Infinity Ultron
 
-The goal is for every character to feel like an actual part of the Cosmic Verse, rather than simply being a reskin.
+A powerful version of Ultron designed for the Cosmic Verse universe.
+
+This character is currently under development.
+
+💎 Infinity Stones
+
+The six legendary Infinity Stones are part of the project's future content.
+
+Each stone is planned to represent a different cosmic power.
 
 ---
 
-📦 Requirements
+⚙️ Requirements
 
-Before installing Cosmic Verse, make sure you have:
+Before using the Heropack, make sure you have:
 
-- Minecraft 1.7.10
-- Minecraft Forge
-- FiskHeroes 2.4.0
+- Minecraft Java Edition 1.7.10
+- FiskHeroes 2.4.0 or a compatible version
+- The Cosmic Verse Heropack files
 
 ---
 
 📥 Installation
 
-1. Download the latest Cosmic Verse release.
-2. Open your Minecraft "FiskHeroes" heropacks folder.
-3. Place the Cosmic Verse Heropack inside the folder.
-4. Launch Minecraft.
-5. Select your character.
-6. Enter the Cosmic Verse. 🌌
+1. Install Minecraft 1.7.10.
+2. Install the required FiskHeroes version.
+3. Download the Cosmic Verse Heropack when it becomes available.
+4. Place the Heropack in the appropriate FiskHeroes Heropacks folder.
+5. Launch Minecraft and enjoy!
+
+The exact installation instructions may be updated with the release.
 
 ---
 
 🛠️ Development
 
-Cosmic Verse is currently actively being developed.
+Cosmic Verse is an actively developed project.
 
-The upcoming update focuses on:
+New characters, abilities, designs and improvements are planned.
 
-- ✨ Redesigned content
-- ⚡ Improved visual effects
-- 🎬 Better animations
-- 🦸 New characters
-- 💥 New abilities
-- 🐛 Bug fixes
-- ⚖️ Balance improvements
-- 🚀 Performance improvements
+Some features may change during development.
+
+---
+
+🐛 Bug Reports & Suggestions
+
+Found a bug or have an idea?
+
+You can open an issue on GitHub to report problems or suggest new features.
+
+Your feedback can help improve Cosmic Verse!
+
+---
 
 🔮 Future Vision
 
-The project will continue expanding with:
+The universe is still expanding.
 
-- New heroes
-- New villains
-- Cosmic powers
-- Unique abilities
-- New animations
-- New effects
-- Original ideas
+More cosmic characters, unique abilities and unexpected additions may arrive in future updates.
 
-This is only the beginning of the Cosmic Verse. 🌌
-
----
-
-🐛 Bug Reports
-
-Found a bug?
-
-Please open an Issue and include:
-
-- Minecraft version
-- FiskHeroes version
-- Cosmic Verse version
-- What happened
-- Steps to reproduce the problem
-- Crash log, if available
-
-Clear bug reports help make the project better and easier to maintain. 🔧
-
----
-
-💡 Suggestions
-
-Have an idea for:
-
-- 🦸 A new character?
-- ⚡ A new ability?
-- 💥 A new attack?
-- 💎 A cosmic power?
-- 🎬 A new animation?
-
-Open an Issue and share your idea!
-
-Community suggestions are welcome. 💡
-
----
-
-📸 Screenshots & Videos
-
-Screenshots, gameplay clips and update previews will be added here as the project grows.
-
-More content will be shown with future releases. 🎥✨
+This is only the beginning.
 
 ---
 
 📜 License
 
-This project is licensed under the MIT License.
+See "LICENSE" (LICENSE) for more information.
 
-See ""LICENSE"" (LICENSE) for more information.
-
-«The MIT License applies only to original content created for this project. Third-party content, assets, characters, trademarks or other materials remain subject to their respective rights and licenses.»
+Third-party characters, trademarks and assets remain the property of their respective owners.
 
 ---
 
-❤️ Credits
+👨‍💻 Credits
 
-Created by NooxTR.
+Created by: NooxTR
 
-Made for the FiskHeroes Minecraft community.
+Project: Cosmic Verse
 
-🎵 TikTok: NooxTR1
-
----
-
-⭐ Support Cosmic Verse
-
-If you enjoy the project:
-
-- ⭐ Star the repository
-- 🐛 Report bugs
-- 💡 Suggest new ideas
-- 📢 Share the project
-- 🎮 Try the latest release
-
-Every bit of support helps the project grow. ⚡🌌
+Platform: FiskHeroes
 
 ---
 
-🌌 COSMIC VERSE
-
-«The universe is getting bigger.»
-
-🚀 Release Window
-
-November 11–16, 2026
-
-See you in the Cosmic Verse. 🌌⚡
+<p align="center">
+  🌌 <b>COSMIC VERSE</b> 🌌
+  <br>
+  <i>Beyond the limits of the universe.</i>
+</p>
