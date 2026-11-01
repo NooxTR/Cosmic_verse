@@ -47,7 +47,7 @@ Character / Content| Status
 🛡️ Old Guard| ✅ Released
 🦹 Doctor Doom| 🚧 In Development
 💎 Infinity Stones| 📋 Planned
-🤖 Infinity Ultron| 🚧 In Development
+🤖 Ultimate Ultron| 🚧 In Development
 
 Note: More characters and abilities may be added during development.
 
@@ -62,7 +62,7 @@ A special Spider-Man design featuring a blue cosmic and galaxy-inspired appearan
 - Galaxy-inspired details
 - No additional spider arms
 
-🤖 Infinity Ultron
+🤖 Ultimate Ultron
 
 A powerful version of Ultron designed for the Cosmic Verse universe.
 
