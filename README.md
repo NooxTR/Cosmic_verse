@@ -59,7 +59,7 @@ Character / Content| Status
 ⏳ Time Stone| 🚧 Planned
 ⚡ Power Stone| 🚧 Planned
 👻 Soul Stone| 🚧 Planned
-🤖 Ultimate Ultron| 🚧 Planned
+🤖 Infinity Ultron| 🚧 Planned
 
 «More heroes, villains, abilities and cosmic content will be added in future updates.»
 
